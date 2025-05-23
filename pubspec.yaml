@@ -1,0 +1,7 @@
+name: simple_todo
+
+environment:
+  sdk: '^3.7.0'
+dependencies:
+  intl: ^0.20.2
+  io: ^1.0.5
